@@ -1,0 +1,3 @@
+C:\Users\Diák\source\repos\dogaauto\dogaauto\obj\Debug\dogaauto.csproj.AssemblyReference.cache
+C:\Users\Diák\source\repos\dogaauto\dogaauto\obj\Debug\dogaauto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diák\source\repos\dogaauto\dogaauto\obj\Debug\dogaauto.csproj.CoreCompileInputs.cache
